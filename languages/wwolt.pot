@@ -1,0 +1,158 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Option List Table\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-07 12:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.0.4"
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:11
+msgid "Add"
+msgstr ""
+
+#: includes/admin/class-ww-olt-admin.php:42
+#: includes/admin/forms/ww-olt-option-list.php:329
+msgid "Add New"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:10
+msgid "Add Option"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:49
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:112
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:143
+msgid "Description"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:111
+msgid "Edit"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:22
+msgid "Edit Option"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:81
+msgid "Enter the option description."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:68
+msgid "Enter the option name."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:92
+msgid "Enter the option price."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.worldwebtechnology.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.worldwebtechnology.com/"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:196
+msgid "Items deleted (or they would be if we had items to delete)!"
+msgstr ""
+
+#. message to show when no records in database table
+#: includes/admin/forms/ww-olt-option-list.php:170
+msgid "No Options found."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:345
+msgid "Option deleted Successfully."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:73
+msgid "Option description:"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:337
+msgid "Option Inserted Successfully."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:142
+msgid "Option Name"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:62
+msgid "Option Name:"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:86
+msgid "Option Price:"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:341
+msgid "Option Updated Successfully."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:328
+msgid "Options"
+msgstr ""
+
+#: includes/admin/class-ww-olt-admin.php:40
+#: includes/admin/class-ww-olt-admin.php:42
+msgid "Options List"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-save.php:30
+msgid "Please enter option description."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-save.php:25
+msgid "Please enter option name."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-save.php:35
+msgid "Please enter option price."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:144
+msgid "Price"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:362
+msgid "Search"
+msgstr ""
+
+#: includes/admin/forms/ww-olt-option-list.php:349
+msgid "Status Changed Successfully."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin handles Add,Edit and Delete functinalities with WordPress Table "
+"and with using WP Options."
+msgstr ""
+
+#: includes/admin/forms/ww-olt-add-edit-option.php:25
+msgid "Update"
+msgstr ""
+
+#. Author of the plugin
+msgid "World Web Technology"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-ww-olt-admin.php:38
+msgid "WP Option List Table"
+msgstr ""
